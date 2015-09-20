@@ -1,6 +1,7 @@
 {
   "name": "finder",
   "version": "0.0.1",
+  "main": "lib",
   "description": "Find files easily",
   "author": "socites",
   "engines": {
