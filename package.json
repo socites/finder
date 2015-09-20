@@ -1,12 +1,9 @@
 {
   "name": "finder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib",
   "description": "Find files easily",
   "author": "socites",
-  "directories": [
-    "lib"
-  ],
   "engines": {
     "node": ">= 0.10.0"
   },
