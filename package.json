@@ -1,12 +1,15 @@
 {
   "name": "finder",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib",
   "description": "Find files easily",
   "author": "socites",
   "engines": {
     "node": ">= 0.10.0"
   },
+  "directories": [
+    "lib"
+  ],
   "files": [
     "README.md"
   ]
