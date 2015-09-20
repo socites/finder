@@ -1,0 +1,11 @@
+{
+  "name": "finder",
+  "description": "Find files easily",
+  "author": "socites",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "README.md"
+  ]
+}
