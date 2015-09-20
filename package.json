@@ -2,7 +2,7 @@
   "name": "finder",
   "version": "0.0.3",
   "main": "./lib",
-  "description": "Find files easily",
+  "description": "Nodejs-based tool for recursively finding files easily",
   "author": "socites",
   "engines": {
     "node": ">= 0.10.0"
