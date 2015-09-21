@@ -11,6 +11,11 @@
     "async": "https://github.com/socites/async.git",
     "co": "~4.0.0"
   },
+  "devDependencies": {
+    "should": "~1.2.2",
+    "mocha": "~1.10.0",
+    "co": "~4.0.0"
+  },
   "directories": {
     "lib": "./lib"
   },
