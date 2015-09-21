@@ -18,10 +18,8 @@
     "co": "~4.0.0",
     "co-fs": ">=1.2.0"
   },
-  "directories": {
-    "lib": "./lib"
-  },
   "files": [
-    "README.md"
+    "README.md",
+    "./lib"
   ]
 }
