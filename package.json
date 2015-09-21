@@ -15,9 +15,7 @@
   },
   "devDependencies": {
     "should": "~1.2.2",
-    "mocha": "~1.10.0",
-    "co": "~4.0.0",
-    "co-fs": ">=1.2.0"
+    "mocha": "~1.10.0"
   },
   "files": [
     "README.md",
