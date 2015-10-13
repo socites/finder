@@ -1,14 +1,14 @@
 {
   "name": "finder",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "./lib",
   "description": "Nodejs-based tool for recursively finding files easily",
   "author": "socites",
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 0.12.0"
   },
   "dependencies": {
-    "async": "https://github.com/socites/async.git",
+    "async": "git+ssh://git@bitbucket.org:socites/async.git",
     "co": "~4.0.0",
     "co-fs": ">=1.2.0",
     "colors": "1.1.2"
