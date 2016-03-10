@@ -1,6 +1,6 @@
 {
   "name": "finder",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "./lib",
   "description": "Nodejs-based tool for recursively finding files easily",
   "author": "socites",
