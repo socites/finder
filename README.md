@@ -10,8 +10,8 @@ let finder = new Finder('/example/of/base/directory', {
     ]
 });
 
-await finder.process();
-await finder.exists(file);
+yield finder.process();
+yield finder.exists(file);
 ```
 
 The previous example will return a list of File objects.
